@@ -53,6 +53,7 @@ class Scraper
 
     student
   end
+  
 
 
   # My original version that had no ability to handle profile pages without all the social media links
